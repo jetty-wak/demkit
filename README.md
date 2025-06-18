@@ -110,3 +110,4 @@ The development and maintenance of this software is made possible through the fu
 -  This research is part of the research program ‘MegaMind- Measuring, Gathering, Mining and Integrating Data for Self-management in the Edge of the Electricity System’, (partly) financed by the Dutch Research Council  (NWO) through the Perspectief program under number P19-25.
 # test
 # trigger
+# trigger
