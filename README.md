@@ -108,3 +108,4 @@ The development and maintenance of this software is made possible through the fu
 - This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 957682 (SERENE).
 - This research is conducted within the EIGEN (Energy Hubs voor Inpassing van Grootschalige Hemieuwbare Energie) project subsidised by the Dutch ministries EZK. 
 -  This research is part of the research program ‘MegaMind- Measuring, Gathering, Mining and Integrating Data for Self-management in the Edge of the Electricity System’, (partly) financed by the Dutch Research Council  (NWO) through the Perspectief program under number P19-25.
+# test
